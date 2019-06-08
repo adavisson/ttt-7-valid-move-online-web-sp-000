@@ -13,4 +13,5 @@ def position_taken?(board, idx)
     return false
   else
     return true
+  end
 end
